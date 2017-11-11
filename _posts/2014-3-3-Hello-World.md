@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Wow you are such a baller Timo!
+title: Test
 ---
 
-Next you can Go skraaa pa pa ka pa pa skibikip pa pa and a p p prrr boom
+This is a test post
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
